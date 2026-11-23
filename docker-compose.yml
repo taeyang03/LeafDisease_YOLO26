@@ -1,0 +1,11 @@
+services:
+  leaf-disease-yolo:
+    build: .
+    container_name: leaf_disease_yolo26
+    stdin_open: true
+    tty: true
+    volumes:
+      # 호스트의 모델 가중치와 출력 디렉토리를 컨테이너 경로에 연결
+      - ./runs:/app/runs
+      # 호스트의 테스트 이미지 폴더 연결
+      - ./test_images:/app/test_images

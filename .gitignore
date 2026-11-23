@@ -1,2 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
 .env
-
+runs/
+!runs/detect/leaf_disease/yolo26m_v2/weights/best.pt
+test_images/
