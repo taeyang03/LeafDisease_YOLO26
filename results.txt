@@ -1,256 +1,181 @@
 
-image 1/50 /home/dumaru/LeafDiseaseYOLO26/test_images/82add70df6ab2854.jpg: 352x512 3 healthys, 8 rusts, 19.6ms
-image 2/50 /home/dumaru/LeafDiseaseYOLO26/test_images/82f49a4a7b9585f1.jpg: 352x512 3 healthys, 2 rusts, 24.2ms
-image 3/50 /home/dumaru/LeafDiseaseYOLO26/test_images/830f26cc6d3cd13e.jpg: 352x512 1 rust, 18.5ms
-image 4/50 /home/dumaru/LeafDiseaseYOLO26/test_images/831abdc76c05e23d.jpg: 352x512 2 rusts, 20.6ms
-image 5/50 /home/dumaru/LeafDiseaseYOLO26/test_images/83a75e2de0cb984b.jpg: 352x512 2 healthys, 2 rusts, 22.1ms
-image 6/50 /home/dumaru/LeafDiseaseYOLO26/test_images/83c2939deb266572.jpg: 384x512 4 healthys, 1 rust, 90.5ms
-image 7/50 /home/dumaru/LeafDiseaseYOLO26/test_images/849a8d127bfaeb21.jpg: 352x512 5 healthys, 1 rust, 30.6ms
-image 8/50 /home/dumaru/LeafDiseaseYOLO26/test_images/84c2b48da27b8cf7.jpg: 352x512 3 healthys, 1 rust, 19.3ms
-image 9/50 /home/dumaru/LeafDiseaseYOLO26/test_images/84c3f037e53e66a1.jpg: 352x512 1 healthy, 1 rust, 24.7ms
-image 10/50 /home/dumaru/LeafDiseaseYOLO26/test_images/84d7fe5c7c0c43c2.jpg: 352x512 1 rust, 23.7ms
-image 11/50 /home/dumaru/LeafDiseaseYOLO26/test_images/85acd23a0b659d97.jpg: 352x512 2 healthys, 1 rust, 26.6ms
-image 12/50 /home/dumaru/LeafDiseaseYOLO26/test_images/85bf39e025c7c41e.jpg: 352x512 1 healthy, 1 rust, 26.3ms
-image 13/50 /home/dumaru/LeafDiseaseYOLO26/test_images/85dfc22c76240f73.jpg: 352x512 2 healthys, 1 rust, 24.5ms
-image 14/50 /home/dumaru/LeafDiseaseYOLO26/test_images/85e36e1b30afca61.jpg: 352x512 1 healthy, 1 rust, 26.7ms
-image 15/50 /home/dumaru/LeafDiseaseYOLO26/test_images/85f0c2c0db4b4f4f.jpg: 352x512 2 healthys, 1 rust, 28.8ms
-image 16/50 /home/dumaru/LeafDiseaseYOLO26/test_images/85f6618e5784b9a3.jpg: 352x512 1 rust, 17.6ms
-image 17/50 /home/dumaru/LeafDiseaseYOLO26/test_images/86b186392c03fdcf.jpg: 352x512 3 healthys, 2 rusts, 30.3ms
-image 18/50 /home/dumaru/LeafDiseaseYOLO26/test_images/86d647d50695364f.jpg: 384x512 1 rust, 22.6ms
-image 19/50 /home/dumaru/LeafDiseaseYOLO26/test_images/86eec849f0b46976.jpg: 352x512 6 healthys, 1 rust, 24.4ms
-image 20/50 /home/dumaru/LeafDiseaseYOLO26/test_images/87acd6d232ab4475.jpg: 352x512 5 healthys, 5 rusts, 17.1ms
-image 21/50 /home/dumaru/LeafDiseaseYOLO26/test_images/87e3d0c12a7ba995.jpg: 352x512 1 healthy, 1 rust, 19.6ms
-image 22/50 /home/dumaru/LeafDiseaseYOLO26/test_images/87e8cb11791fd078.jpg: 352x512 2 healthys, 1 rust, 21.2ms
-image 23/50 /home/dumaru/LeafDiseaseYOLO26/test_images/88b3f86bc843d58d.jpg: 352x512 1 healthy, 1 rust, 24.0ms
-image 24/50 /home/dumaru/LeafDiseaseYOLO26/test_images/88e3af0caa9e497c.jpg: 352x512 4 healthys, 1 rust, 20.3ms
-image 25/50 /home/dumaru/LeafDiseaseYOLO26/test_images/89afafc40142e36f.jpg: 352x512 2 healthys, 2 rusts, 20.3ms
-image 26/50 /home/dumaru/LeafDiseaseYOLO26/test_images/89bc19fcf830c6e8.jpg: 352x512 3 healthys, 1 rust, 20.0ms
-image 27/50 /home/dumaru/LeafDiseaseYOLO26/test_images/89bf2f7258719624.jpg: 352x512 2 healthys, 2 rusts, 27.9ms
-image 28/50 /home/dumaru/LeafDiseaseYOLO26/test_images/89cb83b03f3c60cf.jpg: 352x512 2 healthys, 2 rusts, 22.4ms
-image 29/50 /home/dumaru/LeafDiseaseYOLO26/test_images/89e926943ba5693b.jpg: 352x512 2 rusts, 20.7ms
-image 30/50 /home/dumaru/LeafDiseaseYOLO26/test_images/90bb8dcc6f0c58b9.jpg: 352x512 3 healthys, 1 rust, 38.1ms
-image 31/50 /home/dumaru/LeafDiseaseYOLO26/test_images/90fcd8e1fb2e003d.jpg: 352x512 2 healthys, 1 rust, 26.6ms
-image 32/50 /home/dumaru/LeafDiseaseYOLO26/test_images/91a12f3a425635ef.jpg: 352x512 2 healthys, 1 rust, 21.6ms
-image 33/50 /home/dumaru/LeafDiseaseYOLO26/test_images/91cd70f93719843e.jpg: 352x512 6 healthys, 2 rusts, 30.9ms
-image 34/50 /home/dumaru/LeafDiseaseYOLO26/test_images/91d0d190ffb486b3.jpg: 384x512 2 healthys, 3 rusts, 19.7ms
-image 35/50 /home/dumaru/LeafDiseaseYOLO26/test_images/91f6c89ade1cd60a.jpg: 352x512 4 healthys, 1 rust, 20.8ms
-image 36/50 /home/dumaru/LeafDiseaseYOLO26/test_images/92ad52c79d278b31.jpg: 352x512 1 healthy, 1 rust, 23.1ms
-image 37/50 /home/dumaru/LeafDiseaseYOLO26/test_images/92f22e07d63e6c8c.jpg: 352x512 1 healthy, 1 rust, 19.6ms
-image 38/50 /home/dumaru/LeafDiseaseYOLO26/test_images/93b2a2dec65c2b43.jpg: 384x512 1 healthy, 2 rusts, 25.1ms
-image 39/50 /home/dumaru/LeafDiseaseYOLO26/test_images/93b7273db49054ca.jpg: 352x512 3 healthys, 3 rusts, 26.4ms
-image 40/50 /home/dumaru/LeafDiseaseYOLO26/test_images/93e896990cb365b5.jpg: 352x512 4 healthys, 1 rust, 21.6ms
-image 41/50 /home/dumaru/LeafDiseaseYOLO26/test_images/94c8b450b075eded.jpg: 384x512 2 rusts, 22.6ms
-image 42/50 /home/dumaru/LeafDiseaseYOLO26/test_images/94e2530ba5b2f4b6.jpg: 352x512 2 healthys, 5 rusts, 22.7ms
-image 43/50 /home/dumaru/LeafDiseaseYOLO26/test_images/95a921b75e401afe.jpg: 352x512 1 rust, 22.3ms
-image 44/50 /home/dumaru/LeafDiseaseYOLO26/test_images/95ac93e87a9744d1.jpg: 352x512 1 healthy, 1 rust, 19.7ms
-image 45/50 /home/dumaru/LeafDiseaseYOLO26/test_images/95fcc0d888c1b9bb.jpg: 352x512 1 rust, 26.3ms
-image 46/50 /home/dumaru/LeafDiseaseYOLO26/test_images/96edb05689bd12cc.jpg: 352x512 4 healthys, 3 rusts, 25.0ms
-image 47/50 /home/dumaru/LeafDiseaseYOLO26/test_images/97ae1a31133769cc.jpg: 384x512 2 healthys, 5 rusts, 21.9ms
-image 48/50 /home/dumaru/LeafDiseaseYOLO26/test_images/97c36b7ccaa15641.jpg: 352x512 1 rust, 24.2ms
-image 49/50 /home/dumaru/LeafDiseaseYOLO26/test_images/98f4000fff7b8313.jpg: 384x512 4 healthys, 5 rusts, 24.7ms
-image 50/50 /home/dumaru/LeafDiseaseYOLO26/test_images/99f3639158699cd8.jpg: 384x512 7 healthys, 4 rusts, 32.2ms
-Speed: 5.1ms preprocess, 25.0ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 512)
-Results saved to [1m/home/dumaru/LeafDiseaseYOLO26/runs/detect/predict-6[0m
-82add70df6ab2854.jpg -> rust (확신도: 96.1%)
-82add70df6ab2854.jpg -> rust (확신도: 95.0%)
-82add70df6ab2854.jpg -> rust (확신도: 92.0%)
-82add70df6ab2854.jpg -> rust (확신도: 88.2%)
-82add70df6ab2854.jpg -> rust (확신도: 80.8%)
-82add70df6ab2854.jpg -> rust (확신도: 70.4%)
-82add70df6ab2854.jpg -> rust (확신도: 65.5%)
-82add70df6ab2854.jpg -> healthy (확신도: 57.7%)
-82add70df6ab2854.jpg -> rust (확신도: 56.1%)
-82add70df6ab2854.jpg -> healthy (확신도: 55.4%)
-82add70df6ab2854.jpg -> healthy (확신도: 50.5%)
-82f49a4a7b9585f1.jpg -> rust (확신도: 85.9%)
-82f49a4a7b9585f1.jpg -> healthy (확신도: 73.7%)
-82f49a4a7b9585f1.jpg -> healthy (확신도: 73.2%)
-82f49a4a7b9585f1.jpg -> rust (확신도: 60.5%)
-82f49a4a7b9585f1.jpg -> healthy (확신도: 55.2%)
-830f26cc6d3cd13e.jpg -> rust (확신도: 92.8%)
-831abdc76c05e23d.jpg -> rust (확신도: 90.0%)
-831abdc76c05e23d.jpg -> rust (확신도: 71.7%)
-83a75e2de0cb984b.jpg -> rust (확신도: 96.3%)
-83a75e2de0cb984b.jpg -> healthy (확신도: 88.1%)
-83a75e2de0cb984b.jpg -> healthy (확신도: 78.7%)
-83a75e2de0cb984b.jpg -> rust (확신도: 50.2%)
-83c2939deb266572.jpg -> rust (확신도: 95.9%)
-83c2939deb266572.jpg -> healthy (확신도: 91.7%)
-83c2939deb266572.jpg -> healthy (확신도: 91.4%)
-83c2939deb266572.jpg -> healthy (확신도: 76.6%)
-83c2939deb266572.jpg -> healthy (확신도: 66.0%)
-849a8d127bfaeb21.jpg -> rust (확신도: 94.8%)
-849a8d127bfaeb21.jpg -> healthy (확신도: 93.1%)
-849a8d127bfaeb21.jpg -> healthy (확신도: 92.5%)
-849a8d127bfaeb21.jpg -> healthy (확신도: 86.8%)
-849a8d127bfaeb21.jpg -> healthy (확신도: 84.2%)
-849a8d127bfaeb21.jpg -> healthy (확신도: 74.4%)
-84c2b48da27b8cf7.jpg -> healthy (확신도: 78.0%)
-84c2b48da27b8cf7.jpg -> rust (확신도: 77.1%)
-84c2b48da27b8cf7.jpg -> healthy (확신도: 61.1%)
-84c2b48da27b8cf7.jpg -> healthy (확신도: 53.9%)
-84c3f037e53e66a1.jpg -> rust (확신도: 97.2%)
-84c3f037e53e66a1.jpg -> healthy (확신도: 73.8%)
-84d7fe5c7c0c43c2.jpg -> rust (확신도: 93.0%)
-85acd23a0b659d97.jpg -> rust (확신도: 96.2%)
-85acd23a0b659d97.jpg -> healthy (확신도: 93.2%)
-85acd23a0b659d97.jpg -> healthy (확신도: 66.5%)
-85bf39e025c7c41e.jpg -> rust (확신도: 95.3%)
-85bf39e025c7c41e.jpg -> healthy (확신도: 68.2%)
-85dfc22c76240f73.jpg -> rust (확신도: 96.7%)
-85dfc22c76240f73.jpg -> healthy (확신도: 91.5%)
-85dfc22c76240f73.jpg -> healthy (확신도: 91.2%)
-85e36e1b30afca61.jpg -> rust (확신도: 93.5%)
-85e36e1b30afca61.jpg -> healthy (확신도: 79.3%)
-85f0c2c0db4b4f4f.jpg -> rust (확신도: 95.8%)
-85f0c2c0db4b4f4f.jpg -> healthy (확신도: 85.5%)
-85f0c2c0db4b4f4f.jpg -> healthy (확신도: 76.8%)
-85f6618e5784b9a3.jpg -> rust (확신도: 93.0%)
-86b186392c03fdcf.jpg -> healthy (확신도: 94.0%)
-86b186392c03fdcf.jpg -> healthy (확신도: 93.8%)
-86b186392c03fdcf.jpg -> rust (확신도: 93.7%)
-86b186392c03fdcf.jpg -> healthy (확신도: 93.6%)
-86b186392c03fdcf.jpg -> rust (확신도: 92.4%)
-86d647d50695364f.jpg -> rust (확신도: 96.3%)
-86eec849f0b46976.jpg -> rust (확신도: 96.9%)
-86eec849f0b46976.jpg -> healthy (확신도: 93.7%)
-86eec849f0b46976.jpg -> healthy (확신도: 92.8%)
-86eec849f0b46976.jpg -> healthy (확신도: 89.1%)
-86eec849f0b46976.jpg -> healthy (확신도: 81.5%)
-86eec849f0b46976.jpg -> healthy (확신도: 79.1%)
-86eec849f0b46976.jpg -> healthy (확신도: 65.5%)
-87acd6d232ab4475.jpg -> rust (확신도: 95.0%)
-87acd6d232ab4475.jpg -> healthy (확신도: 92.7%)
-87acd6d232ab4475.jpg -> rust (확신도: 92.1%)
-87acd6d232ab4475.jpg -> healthy (확신도: 90.5%)
-87acd6d232ab4475.jpg -> healthy (확신도: 90.0%)
-87acd6d232ab4475.jpg -> rust (확신도: 88.7%)
-87acd6d232ab4475.jpg -> rust (확신도: 88.1%)
-87acd6d232ab4475.jpg -> healthy (확신도: 84.7%)
-87acd6d232ab4475.jpg -> rust (확신도: 83.0%)
-87acd6d232ab4475.jpg -> healthy (확신도: 69.7%)
-87e3d0c12a7ba995.jpg -> rust (확신도: 89.4%)
-87e3d0c12a7ba995.jpg -> healthy (확신도: 54.1%)
-87e8cb11791fd078.jpg -> rust (확신도: 90.4%)
-87e8cb11791fd078.jpg -> healthy (확신도: 81.9%)
-87e8cb11791fd078.jpg -> healthy (확신도: 68.3%)
-88b3f86bc843d58d.jpg -> rust (확신도: 95.1%)
-88b3f86bc843d58d.jpg -> healthy (확신도: 84.6%)
-88e3af0caa9e497c.jpg -> rust (확신도: 94.9%)
-88e3af0caa9e497c.jpg -> healthy (확신도: 87.9%)
-88e3af0caa9e497c.jpg -> healthy (확신도: 69.2%)
-88e3af0caa9e497c.jpg -> healthy (확신도: 53.8%)
-88e3af0caa9e497c.jpg -> healthy (확신도: 50.4%)
-89afafc40142e36f.jpg -> rust (확신도: 96.3%)
-89afafc40142e36f.jpg -> healthy (확신도: 92.3%)
-89afafc40142e36f.jpg -> rust (확신도: 58.7%)
-89afafc40142e36f.jpg -> healthy (확신도: 56.2%)
-89bc19fcf830c6e8.jpg -> rust (확신도: 94.4%)
-89bc19fcf830c6e8.jpg -> healthy (확신도: 88.4%)
-89bc19fcf830c6e8.jpg -> healthy (확신도: 81.1%)
-89bc19fcf830c6e8.jpg -> healthy (확신도: 62.6%)
-89bf2f7258719624.jpg -> rust (확신도: 95.4%)
-89bf2f7258719624.jpg -> healthy (확신도: 91.4%)
-89bf2f7258719624.jpg -> healthy (확신도: 87.4%)
-89bf2f7258719624.jpg -> rust (확신도: 58.9%)
-89cb83b03f3c60cf.jpg -> rust (확신도: 95.9%)
-89cb83b03f3c60cf.jpg -> healthy (확신도: 94.0%)
-89cb83b03f3c60cf.jpg -> healthy (확신도: 93.9%)
-89cb83b03f3c60cf.jpg -> rust (확신도: 85.3%)
-89e926943ba5693b.jpg -> rust (확신도: 84.5%)
-89e926943ba5693b.jpg -> rust (확신도: 64.6%)
-90bb8dcc6f0c58b9.jpg -> rust (확신도: 95.0%)
-90bb8dcc6f0c58b9.jpg -> healthy (확신도: 85.5%)
-90bb8dcc6f0c58b9.jpg -> healthy (확신도: 76.4%)
-90bb8dcc6f0c58b9.jpg -> healthy (확신도: 76.3%)
-90fcd8e1fb2e003d.jpg -> rust (확신도: 91.2%)
-90fcd8e1fb2e003d.jpg -> healthy (확신도: 83.9%)
-90fcd8e1fb2e003d.jpg -> healthy (확신도: 80.7%)
-91a12f3a425635ef.jpg -> healthy (확신도: 93.6%)
-91a12f3a425635ef.jpg -> rust (확신도: 93.2%)
-91a12f3a425635ef.jpg -> healthy (확신도: 82.8%)
-91cd70f93719843e.jpg -> healthy (확신도: 94.3%)
-91cd70f93719843e.jpg -> rust (확신도: 92.7%)
-91cd70f93719843e.jpg -> healthy (확신도: 92.1%)
-91cd70f93719843e.jpg -> healthy (확신도: 88.6%)
-91cd70f93719843e.jpg -> healthy (확신도: 85.3%)
-91cd70f93719843e.jpg -> healthy (확신도: 79.2%)
-91cd70f93719843e.jpg -> healthy (확신도: 76.4%)
-91cd70f93719843e.jpg -> rust (확신도: 65.3%)
-91d0d190ffb486b3.jpg -> rust (확신도: 86.6%)
-91d0d190ffb486b3.jpg -> rust (확신도: 80.9%)
-91d0d190ffb486b3.jpg -> rust (확신도: 62.9%)
-91d0d190ffb486b3.jpg -> healthy (확신도: 60.9%)
-91d0d190ffb486b3.jpg -> healthy (확신도: 57.5%)
-91f6c89ade1cd60a.jpg -> rust (확신도: 96.3%)
-91f6c89ade1cd60a.jpg -> healthy (확신도: 95.5%)
-91f6c89ade1cd60a.jpg -> healthy (확신도: 92.8%)
-91f6c89ade1cd60a.jpg -> healthy (확신도: 84.6%)
-91f6c89ade1cd60a.jpg -> healthy (확신도: 69.1%)
-92ad52c79d278b31.jpg -> rust (확신도: 93.1%)
-92ad52c79d278b31.jpg -> healthy (확신도: 91.3%)
-92f22e07d63e6c8c.jpg -> rust (확신도: 84.3%)
-92f22e07d63e6c8c.jpg -> healthy (확신도: 78.1%)
-93b2a2dec65c2b43.jpg -> rust (확신도: 91.9%)
-93b2a2dec65c2b43.jpg -> rust (확신도: 87.9%)
-93b2a2dec65c2b43.jpg -> healthy (확신도: 65.2%)
-93b7273db49054ca.jpg -> rust (확신도: 96.4%)
-93b7273db49054ca.jpg -> healthy (확신도: 89.6%)
-93b7273db49054ca.jpg -> healthy (확신도: 88.9%)
-93b7273db49054ca.jpg -> rust (확신도: 86.4%)
-93b7273db49054ca.jpg -> rust (확신도: 74.1%)
-93b7273db49054ca.jpg -> healthy (확신도: 61.0%)
-93e896990cb365b5.jpg -> rust (확신도: 95.9%)
-93e896990cb365b5.jpg -> healthy (확신도: 92.5%)
-93e896990cb365b5.jpg -> healthy (확신도: 90.1%)
-93e896990cb365b5.jpg -> healthy (확신도: 78.1%)
-93e896990cb365b5.jpg -> healthy (확신도: 50.3%)
-94c8b450b075eded.jpg -> rust (확신도: 94.1%)
-94c8b450b075eded.jpg -> rust (확신도: 68.5%)
-94e2530ba5b2f4b6.jpg -> rust (확신도: 93.6%)
-94e2530ba5b2f4b6.jpg -> healthy (확신도: 93.2%)
-94e2530ba5b2f4b6.jpg -> rust (확신도: 90.9%)
-94e2530ba5b2f4b6.jpg -> rust (확신도: 88.5%)
-94e2530ba5b2f4b6.jpg -> rust (확신도: 88.2%)
-94e2530ba5b2f4b6.jpg -> rust (확신도: 87.1%)
-94e2530ba5b2f4b6.jpg -> healthy (확신도: 62.8%)
-95a921b75e401afe.jpg -> rust (확신도: 93.7%)
-95ac93e87a9744d1.jpg -> rust (확신도: 94.3%)
-95ac93e87a9744d1.jpg -> healthy (확신도: 79.7%)
-95fcc0d888c1b9bb.jpg -> rust (확신도: 94.9%)
-96edb05689bd12cc.jpg -> rust (확신도: 95.4%)
-96edb05689bd12cc.jpg -> healthy (확신도: 93.0%)
-96edb05689bd12cc.jpg -> rust (확신도: 91.8%)
-96edb05689bd12cc.jpg -> healthy (확신도: 77.0%)
-96edb05689bd12cc.jpg -> healthy (확신도: 71.4%)
-96edb05689bd12cc.jpg -> healthy (확신도: 66.0%)
-96edb05689bd12cc.jpg -> rust (확신도: 64.5%)
-97ae1a31133769cc.jpg -> rust (확신도: 92.5%)
-97ae1a31133769cc.jpg -> rust (확신도: 92.5%)
-97ae1a31133769cc.jpg -> rust (확신도: 86.1%)
-97ae1a31133769cc.jpg -> rust (확신도: 82.5%)
-97ae1a31133769cc.jpg -> rust (확신도: 74.3%)
-97ae1a31133769cc.jpg -> healthy (확신도: 62.5%)
-97ae1a31133769cc.jpg -> healthy (확신도: 59.5%)
-97c36b7ccaa15641.jpg -> rust (확신도: 92.6%)
-98f4000fff7b8313.jpg -> rust (확신도: 92.0%)
-98f4000fff7b8313.jpg -> rust (확신도: 90.3%)
-98f4000fff7b8313.jpg -> rust (확신도: 89.4%)
-98f4000fff7b8313.jpg -> rust (확신도: 87.8%)
-98f4000fff7b8313.jpg -> healthy (확신도: 79.8%)
-98f4000fff7b8313.jpg -> rust (확신도: 73.6%)
-98f4000fff7b8313.jpg -> healthy (확신도: 68.4%)
-98f4000fff7b8313.jpg -> healthy (확신도: 68.3%)
-98f4000fff7b8313.jpg -> healthy (확신도: 58.1%)
-99f3639158699cd8.jpg -> rust (확신도: 92.5%)
-99f3639158699cd8.jpg -> healthy (확신도: 91.4%)
-99f3639158699cd8.jpg -> healthy (확신도: 73.4%)
-99f3639158699cd8.jpg -> rust (확신도: 69.4%)
-99f3639158699cd8.jpg -> rust (확신도: 69.2%)
-99f3639158699cd8.jpg -> healthy (확신도: 62.7%)
-99f3639158699cd8.jpg -> healthy (확신도: 59.5%)
-99f3639158699cd8.jpg -> healthy (확신도: 59.5%)
-99f3639158699cd8.jpg -> healthy (확신도: 56.4%)
-99f3639158699cd8.jpg -> rust (확신도: 55.0%)
-99f3639158699cd8.jpg -> healthy (확신도: 54.7%)
-총 입력 이미지 : 50 (검출 박스 : 202) \ rust : 93 (46.0%) \ healthy : 109 (54.0%) \ powndery : 0 (0.0%)
+1. healthy, 2. rust, 3. powndery, 4. exit
+번호를 입력하세요: Results saved to [1m/home/dumaru/LeafDiseaseYOLO26/runs/detect/predict-20[0m
+===============================================================
+8ddaa5a5caa5caa8.jpg -> healthy (확신도: 95.8%)
+8ddaa5a5caa5caa8.jpg -> healthy (확신도: 93.1%)
+===============================================================
+8ddaac1bd6c8cd0a.jpg -> healthy (확신도: 85.0%)
+8ddaac1bd6c8cd0a.jpg -> healthy (확신도: 75.5%)
+8ddaac1bd6c8cd0a.jpg -> healthy (확신도: 61.1%)
+===============================================================
+8ddd5ec1c0de38c4.jpg -> healthy (확신도: 95.7%)
+8ddd5ec1c0de38c4.jpg -> healthy (확신도: 94.4%)
+8ddd5ec1c0de38c4.jpg -> healthy (확신도: 65.5%)
+===============================================================
+8def3f60308ab41b.jpg -> healthy (확신도: 94.9%)
+8def3f60308ab41b.jpg -> healthy (확신도: 92.5%)
+===============================================================
+8def4d91382175c3.jpg -> healthy (확신도: 93.0%)
+8def4d91382175c3.jpg -> healthy (확신도: 88.1%)
+===============================================================
+8df452e2e38c0b6e.jpg -> healthy (확신도: 94.8%)
+8df452e2e38c0b6e.jpg -> healthy (확신도: 94.3%)
+8df452e2e38c0b6e.jpg -> healthy (확신도: 83.0%)
+===============================================================
+8dfae9d78cc32089.jpg -> healthy (확신도: 95.1%)
+===============================================================
+8e3dbccdfe08c850.jpg -> healthy (확신도: 91.5%)
+8e3dbccdfe08c850.jpg -> healthy (확신도: 88.9%)
+8e3dbccdfe08c850.jpg -> healthy (확신도: 81.8%)
+8e3dbccdfe08c850.jpg -> healthy (확신도: 59.2%)
+===============================================================
+8e68163c62dc57d5.jpg -> healthy (확신도: 94.0%)
+8e68163c62dc57d5.jpg -> healthy (확신도: 83.4%)
+===============================================================
+8e6a823cce9ff40c.jpg -> healthy (확신도: 94.1%)
+8e6a823cce9ff40c.jpg -> healthy (확신도: 93.0%)
+8e6a823cce9ff40c.jpg -> healthy (확신도: 84.9%)
+===============================================================
+8e77857194a59a87.jpg -> healthy (확신도: 94.7%)
+===============================================================
+8e79802b3fb770c8.jpg -> healthy (확신도: 93.4%)
+8e79802b3fb770c8.jpg -> healthy (확신도: 91.3%)
+===============================================================
+8e7986d1ecd36445.jpg -> healthy (확신도: 95.0%)
+8e7986d1ecd36445.jpg -> healthy (확신도: 91.4%)
+8e7986d1ecd36445.jpg -> healthy (확신도: 86.9%)
+===============================================================
+8e7e70a6878c1c79.jpg -> healthy (확신도: 96.1%)
+8e7e70a6878c1c79.jpg -> healthy (확신도: 78.4%)
+8e7e70a6878c1c79.jpg -> healthy (확신도: 67.4%)
+8e7e70a6878c1c79.jpg -> healthy (확신도: 66.0%)
+===============================================================
+8e82b1a51bd11afe.jpg -> healthy (확신도: 94.8%)
+8e82b1a51bd11afe.jpg -> healthy (확신도: 92.7%)
+8e82b1a51bd11afe.jpg -> healthy (확신도: 86.5%)
+8e82b1a51bd11afe.jpg -> healthy (확신도: 60.7%)
+===============================================================
+8e8470687be37378.jpg -> healthy (확신도: 87.7%)
+===============================================================
+8e858c8397706b7b.jpg -> healthy (확신도: 93.4%)
+8e858c8397706b7b.jpg -> healthy (확신도: 84.1%)
+===============================================================
+8e8835d2ebdbc503.jpg -> healthy (확신도: 92.0%)
+8e8835d2ebdbc503.jpg -> rust (확신도: 66.0%)
+===============================================================
+8e97869f9e143863.jpg -> healthy (확신도: 94.8%)
+8e97869f9e143863.jpg -> healthy (확신도: 87.0%)
+8e97869f9e143863.jpg -> rust (확신도: 66.8%)
+===============================================================
+8e98e20ace1abaeb.jpg -> healthy (확신도: 84.4%)
+8e98e20ace1abaeb.jpg -> healthy (확신도: 81.5%)
+8e98e20ace1abaeb.jpg -> healthy (확신도: 71.4%)
+===============================================================
+8e9e7eaa34250b71.jpg -> healthy (확신도: 93.8%)
+8e9e7eaa34250b71.jpg -> healthy (확신도: 86.8%)
+===============================================================
+8eaeaea542a5217b.jpg -> healthy (확신도: 94.2%)
+8eaeaea542a5217b.jpg -> healthy (확신도: 85.8%)
+===============================================================
+8eb0da4b65b0638f.jpg -> healthy (확신도: 93.1%)
+8eb0da4b65b0638f.jpg -> healthy (확신도: 93.1%)
+8eb0da4b65b0638f.jpg -> healthy (확신도: 58.1%)
+===============================================================
+8eb3b68893378387.jpg -> healthy (확신도: 89.8%)
+===============================================================
+8ebc94969f1252d9.jpg -> healthy (확신도: 95.3%)
+8ebc94969f1252d9.jpg -> healthy (확신도: 87.4%)
+===============================================================
+8ed56dd8b2c1c15a.jpg -> healthy (확신도: 95.4%)
+8ed56dd8b2c1c15a.jpg -> healthy (확신도: 80.4%)
+8ed56dd8b2c1c15a.jpg -> healthy (확신도: 72.3%)
+8ed56dd8b2c1c15a.jpg -> healthy (확신도: 62.7%)
+===============================================================
+8ed6fe1f030281d7.jpg -> healthy (확신도: 66.6%)
+8ed6fe1f030281d7.jpg -> rust (확신도: 52.7%)
+===============================================================
+8eda9490a3f38ea9.jpg -> healthy (확신도: 94.6%)
+8eda9490a3f38ea9.jpg -> healthy (확신도: 68.4%)
+8eda9490a3f38ea9.jpg -> healthy (확신도: 64.3%)
+8eda9490a3f38ea9.jpg -> healthy (확신도: 61.5%)
+===============================================================
+8f137ee1d4f01a58.jpg -> healthy (확신도: 93.5%)
+8f137ee1d4f01a58.jpg -> healthy (확신도: 93.2%)
+8f137ee1d4f01a58.jpg -> healthy (확신도: 79.2%)
+===============================================================
+8f2071c7987e86ea.jpg -> healthy (확신도: 95.6%)
+8f2071c7987e86ea.jpg -> healthy (확신도: 94.0%)
+===============================================================
+8f212597df6822ea.jpg -> healthy (확신도: 93.5%)
+===============================================================
+8f236f8637419e29.jpg -> healthy (확신도: 96.3%)
+8f236f8637419e29.jpg -> healthy (확신도: 61.9%)
+===============================================================
+8f2acfec7cc230c1.jpg -> healthy (확신도: 71.6%)
+===============================================================
+8f2f6ec09516f145.jpg -> healthy (확신도: 78.5%)
+8f2f6ec09516f145.jpg -> healthy (확신도: 67.4%)
+8f2f6ec09516f145.jpg -> healthy (확신도: 51.1%)
+===============================================================
+8f302a9511b7e74e.jpg -> healthy (확신도: 95.5%)
+8f302a9511b7e74e.jpg -> healthy (확신도: 94.7%)
+===============================================================
+8f3360ce3227c79a.jpg -> healthy (확신도: 96.0%)
+8f3360ce3227c79a.jpg -> healthy (확신도: 64.8%)
+===============================================================
+8f3b45ca0c71673c.jpg -> healthy (확신도: 95.6%)
+8f3b45ca0c71673c.jpg -> healthy (확신도: 76.6%)
+===============================================================
+8f456733d83cc836.jpg -> healthy (확신도: 95.3%)
+8f456733d83cc836.jpg -> healthy (확신도: 92.7%)
+8f456733d83cc836.jpg -> healthy (확신도: 81.8%)
+===============================================================
+8f512dd7711c8aa9.jpg -> healthy (확신도: 93.8%)
+===============================================================
+8f83c2ee646433e3.jpg -> healthy (확신도: 93.6%)
+8f83c2ee646433e3.jpg -> rust (확신도: 89.4%)
+===============================================================
+8f850aea4adfda82.jpg -> healthy (확신도: 94.2%)
+===============================================================
+8f85b8d78b58a06e.jpg -> healthy (확신도: 95.3%)
+8f85b8d78b58a06e.jpg -> healthy (확신도: 94.2%)
+8f85b8d78b58a06e.jpg -> healthy (확신도: 92.1%)
+8f85b8d78b58a06e.jpg -> healthy (확신도: 89.5%)
+8f85b8d78b58a06e.jpg -> healthy (확신도: 88.4%)
+8f85b8d78b58a06e.jpg -> healthy (확신도: 67.2%)
+===============================================================
+8f90e6bbd782c911.jpg -> healthy (확신도: 94.5%)
+8f90e6bbd782c911.jpg -> healthy (확신도: 92.3%)
+===============================================================
+8f97989814fc62c7.jpg -> healthy (확신도: 95.9%)
+===============================================================
+8faa21bead40b563.jpg -> healthy (확신도: 92.4%)
+8faa21bead40b563.jpg -> healthy (확신도: 77.4%)
+===============================================================
+8fadf039a06cd8f0.jpg -> healthy (확신도: 94.7%)
+8fadf039a06cd8f0.jpg -> healthy (확신도: 91.1%)
+8fadf039a06cd8f0.jpg -> healthy (확신도: 89.5%)
+8fadf039a06cd8f0.jpg -> healthy (확신도: 89.3%)
+8fadf039a06cd8f0.jpg -> healthy (확신도: 89.3%)
+8fadf039a06cd8f0.jpg -> healthy (확신도: 74.4%)
+===============================================================
+8fb63ed66891b0d0.jpg -> healthy (확신도: 92.4%)
+===============================================================
+8fc3b16e36d0aac8.jpg -> healthy (확신도: 96.1%)
+8fc3b16e36d0aac8.jpg -> healthy (확신도: 89.7%)
+8fc3b16e36d0aac8.jpg -> healthy (확신도: 56.5%)
+8fc3b16e36d0aac8.jpg -> healthy (확신도: 52.5%)
+===============================================================
+8fcf3c246472e272.jpg -> healthy (확신도: 93.6%)
+8fcf3c246472e272.jpg -> healthy (확신도: 82.0%)
+8fcf3c246472e272.jpg -> healthy (확신도: 70.1%)
+===============================================================
+8fd88738e26f45c4.jpg -> healthy (확신도: 93.7%)
+8fd88738e26f45c4.jpg -> healthy (확신도: 90.1%)
+8fd88738e26f45c4.jpg -> healthy (확신도: 87.9%)
+===============================================================
+총 입력 이미지 : 50 (검출 박스 : 123) \ rust : 4 (3.3%) \ healthy : 119 (96.7%) \ powndery : 0 (0.0%)
+
+1. healthy, 2. rust, 3. powndery, 4. exit
+번호를 입력하세요: 프로세스를 종료합니다.

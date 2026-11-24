@@ -1,0 +1,9 @@
+path: ./datasets/leaf_disease
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: class_0
+  1: class_1
+  2: class_2

@@ -42,6 +42,7 @@ while True:
 
   total_images = len(results)
   box_counts = Counter()
+  print("===============================================================")
 
   # 파일명 <-> 판별 결과(클래스 및 확신도) 매핑 출력
   for result in results:
@@ -56,6 +57,8 @@ while True:
       confidence = float(box.conf[0])  # 예측 확신도 (0.0 ~ 1.0)
       print(f"{filename} -> {class_name} (확신도: {confidence * 100:.1f}%)")
       box_counts[class_name] += 1
+    
+    print("===============================================================")
 
   total_boxes = sum(box_counts.values())
   display_classes = ["rust", "healthy", "powndery"]
